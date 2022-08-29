@@ -18,4 +18,3 @@ xcape
 
 mechvibes &
 ibus-daemon -drxR
-
